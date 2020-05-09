@@ -6,6 +6,7 @@ namespace DFSUtility
 {
     public enum Command
     {
+        none,
         clientConnect,
         requestFileTree,
         serverConnect,
@@ -24,6 +25,7 @@ namespace DFSUtility
         save,
         updateFileTree,
         updateConfig,
-        forwarded
+        forwarded,
+        spaceAvailable
     }
 }

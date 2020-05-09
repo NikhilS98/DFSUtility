@@ -11,5 +11,6 @@ namespace DFSUtility
         public string Method { get; set; }
         public object[] Parameters { get; set; }
         public byte[] Bytes { get; set; }
+        public Guid Guid { get; set; } 
     }
 }
