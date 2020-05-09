@@ -25,7 +25,6 @@ namespace DFSUtility
         save,
         updateFileTree,
         updateConfig,
-        forwarded,
-        spaceAvailable
+        forwarded
     }
 }
