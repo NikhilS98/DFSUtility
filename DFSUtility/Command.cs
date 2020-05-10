@@ -22,7 +22,7 @@ namespace DFSUtility
         cpdir,
         cp,
         stats,
-        save,
+        wait,
         updateFileTree,
         updateConfig,
         forwarded
